@@ -1,6 +1,6 @@
 # reactjs-test
 
-Objetivos:
+## Objetivos:
 
 1- Crear una aplicación react (se puede utilizar [CRA](https://create-react-app.dev/))
 
@@ -10,13 +10,13 @@ Objetivos:
 
 4- La app tiene que tener un tema de colores configurado que permita elegir el color de fondo del cluster (default: #FFFFFF) y el color de fondo del botón "Ver hotel" (default: #126AFF). Estos dos colores tienen que ser modificables en dos inputs dentro de la app.
 
-Requerimientos:
+## Requerimientos:
 
 * La única libreria que se puede agregar además de las que instala [CRA](https://create-react-app.dev/) es [Material-UI](https://material-ui.com/)
 * Utilizar la [nueva API de Hooks de react](https://reactjs.org/docs/hooks-intro.html)
 * Utilizar la [nueva api de Context de react](https://reactjs.org/docs/context.html)
 
-Aclaraciones:
+## Aclaraciones:
 
 * Ignorar el resto de los campos que no esten dentro de `clusters` en el json de respuesta de la API
 * Limite máximo de pantalla mobile: `425px`
