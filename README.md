@@ -12,7 +12,9 @@
 
 ## Requerimientos:
 
-* La única libreria que se puede agregar además de las que instala [CRA](https://create-react-app.dev/) es [Material-UI](https://material-ui.com/)
+* Las únicas libreria que se puede agregar además de las que instala [CRA](https://create-react-app.dev/) son: 
+  * [Material-UI](https://material-ui.com/)
+  * Libreria de CSS in JS (ej: [Emotion JS](https://emotion.sh/docs/introduction), [Styled Components](https://styled-components.com/), etc.)
 * Utilizar la [nueva API de Hooks de react](https://reactjs.org/docs/hooks-intro.html)
 * Utilizar la [nueva api de Context de react](https://reactjs.org/docs/context.html)
 
