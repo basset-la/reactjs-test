@@ -13,8 +13,8 @@ Objetivos:
 Requerimientos:
 
 * La única libreria que se puede agregar además de las que instala [CRA](https://create-react-app.dev/) es [Material-UI](https://material-ui.com/)
-* Utilizar la nueva API de Hooks de react
-* Utilizar la nueva api de Context de react
+* Utilizar la [nueva API de Hooks de react](https://reactjs.org/docs/hooks-intro.html)
+* Utilizar la [nueva api de Context de react](https://reactjs.org/docs/context.html)
 
 Aclaraciones:
 
