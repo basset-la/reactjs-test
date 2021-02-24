@@ -17,6 +17,7 @@
   * Libreria de CSS in JS (ej: [Emotion JS](https://emotion.sh/docs/introduction), [Styled Components](https://styled-components.com/), etc.)
 * Utilizar la [nueva API de Hooks de react](https://reactjs.org/docs/hooks-intro.html)
 * Utilizar la [nueva api de Context de react](https://reactjs.org/docs/context.html)
+* Utilizar FlexBox
 
 ## Aclaraciones:
 
