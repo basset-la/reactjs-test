@@ -18,6 +18,7 @@
 * Utilizar la [nueva API de Hooks de react](https://reactjs.org/docs/hooks-intro.html)
 * Utilizar la [nueva api de Context de react](https://reactjs.org/docs/context.html)
 * Utilizar FlexBox
+* Utilizar Typescript
 
 ## Aclaraciones:
 
